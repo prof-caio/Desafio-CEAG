@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de idade Cachorro</title>
+</head>
+<body>
+    <h1>Calculadora de Idade Humana para Cachorros</h1>
+    <p>Clique aqui para saber a idade humana do seu cachorrinho:</p>
+    <button onclick="Calcular()">Calcular</button>
+    <p class="mostra-resultado">Resultado: </p>
+    
+</body>
+</html>
